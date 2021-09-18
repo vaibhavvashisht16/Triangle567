@@ -1,1 +1,1 @@
-# Triangle567_Vaibhav
+# Triangle567
